@@ -4,14 +4,29 @@
 
 I'm **Anadi Yadav**, a passionate and creative Full Stack Developer currently pursuing a Bachelor of Technology in Computer Science and Engineering at JECRC University, Jaipur. My expertise lies in leveraging both technical and creative skills to drive digital transformation and deliver exceptional client solutions.
 
-## 🔧 Tech Stack
+<br>
 
-- **Languages:** C++, HTML, CSS, JavaScript, SQL
-- **Frameworks/Libraries:** React.js (Beginner)
-- **Back-End:** MySQL (Beginner)
-- **Tools & Platforms:** Git, GitHub, Wix, Hugging Face
-- **Areas of Interest:** Full Stack Web Development, Digital Solutions
+## 🛠️ My Tech Stack
 
+### Languages
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="80" height="40" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="80" height="40"  /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" width="80" height="40" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="80" height="40"  /> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" width="80" height="40" />
+
+### Frameworks/Libraries
+<img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black" width="100" height="40" /> 
+
+### Back-End
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" width="80" height="40" />
+
+### Tools & Platforms
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="80" height="40" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" width="80" height="40" /> <img src="https://img.shields.io/badge/-Wix-0C6EFA?style=flat-square&logo=wix&logoColor=white" width="80" height="40" /> <img src="https://img.shields.io/badge/-Hugging%20Face-FFD54F?style=flat-square&logo=huggingface&logoColor=black" width="130" height="40" />
+
+### Areas of Interest
+<img src="https://img.shields.io/badge/-Full%20Stack%20Web%20Development-4B9CD3?style=flat-square" width="180" height="40" /> <img src="https://img.shields.io/badge/-Digital%20Solutions-4B9CD3?style=flat-square" width="120" height="40" />
+
+
+## 💻 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadiYadav&layout=compact&theme=radical)
 ## 🚀 Projects
 
 ### 1. [Dhanvantari (Leaf Detection Model)]  (https://anadiyadav.github.io/Leaf-Detection-Model/)
@@ -23,6 +38,13 @@ I'm **Anadi Yadav**, a passionate and creative Full Stack Developer currently pu
 **Description:** A responsive website developed for a Martial Arts Academy to streamline their admission process. The site features an attractive UI and is designed for ease of use.
 **Role:** Sole developer - I designed and developed the entire front-end using a low-code platform.
 **Technology Used:** Wix (Low Code Website Builder)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnadiYadav&show_icons=true&theme=wtf)
+
+<br>
+
 
 ## 🏆 Achievements & Certifications
 
