@@ -27,14 +27,43 @@ I'm **Anadi Yadav**, a passionate and creative Full Stack Developer currently pu
 ## 💻 Languages Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnadiYadav&layout=compact&theme=radical)
+## 💼 Experience
+
+### ISRO (Indian Space Research Organisation) - Software Development Intern
+- Developed a domain-specific Earth Observation Chatbot during internship as a Software Developer utilizing HTML, CSS, JS, Node.js, ML Models, Milvus, MySQL and Web Scraping.
+- This Chatbot will be integrated in the official website of NRSC-ISRO.
+
+### The Sparks Foundation - Web Development Intern
+- Developed a fully functional Basic Banking System using HTML, CSS, and JavaScript.
+
+### Tryst, IIT Delhi - Campus Ambassador
+- Led promotional campaigns that increased event registrations by 50%, reaching over 1,000 students.
+
+## 🎓 Education
+
+- **Bachelor of Technology (Computer Science and Engineering)**
+  - JECRC University, Jaipur
+  - 2021 - 2025 (CGPA: 8.52)
+- **Higher Secondary Education**
+  - Bharat Jyoti Vidyalaya, Anuppur
+  - 2021 (Percentage: 95%)
+- **High School**
+  - Bharat Jyoti Vidyalaya, Anuppur
+  - 2019 (Percentage: 94%)
+
 ## 🚀 Projects
 
-### 1. [Dhanvantari (Leaf Detection Model)]  (https://anadiyadav.github.io/Leaf-Detection-Model/)
+### 1. [Earth Observation Chatbot]  (ISRO's Project)
+**Description:** An AI-powered chatbot designed for NRSC’s official website to answer domain-specific queries with updates via scraping and vector search.
+**Role:** Full stack developer - Built complete Front-End and Back-End, integrated ML models, Milvus, and admin workflows.
+**Technology Used:** HTML, CSS, JavaScript, Node.js, MySQL, Milvus, Web Scraping, LLM
+
+### 2. [Dhanvantari (Leaf Detection Model)]  (https://anadiyadav.github.io/Leaf-Detection-Model/)
 **Description:** This project combines AI/ML with web development to create a model capable of detecting a leaf and accurately identifying the plant species with 97% accuracy.
 **Role:** Full stack developer - I handled both the front-end and back-end development, integrating the web application with the AI model.
 **Technology Used:** HTML, CSS, JavaScript, Hugging Face, ViT
 
-### 2. [Martial Arts Academy Website]  (https://jkmartialart.wixsite.com/website)
+### 3. [Martial Arts Academy Website]  (https://jkmartialart.wixsite.com/website)
 **Description:** A responsive website developed for a Martial Arts Academy to streamline their admission process. The site features an attractive UI and is designed for ease of use.
 **Role:** Sole developer - I designed and developed the entire front-end using a low-code platform.
 **Technology Used:** Wix (Low Code Website Builder)
@@ -54,26 +83,6 @@ I'm **Anadi Yadav**, a passionate and creative Full Stack Developer currently pu
 - **TCS Codevita:** Global Rank - 1235
 - **Google Cloud Associate:** Completed the Cloud Engineer Track
 - **Conference:** Presented at the 5th International Conference on Mathematical Modelling
-
-## 🎓 Education
-
-- **Bachelor of Technology (Computer Science and Engineering)**
-  - JECRC University, Jaipur
-  - 2021 - 2025 (CGPA: 8.52)
-- **Higher Secondary Education**
-  - Bharat Jyoti Vidyalaya, Anuppur
-  - 2021 (Percentage: 95%)
-- **High School**
-  - Bharat Jyoti Vidyalaya, Anuppur
-  - 2019 (Percentage: 94%)
-
-## 💼 Experience
-
-### The Sparks Foundation - Web Development Intern
-- Developed a fully functional Basic Banking System using HTML, CSS, and JavaScript.
-
-### Tryst, IIT Delhi - Campus Ambassador
-- Led promotional campaigns that increased event registrations by 50%, reaching over 1,000 students.
 
 ## 🌱 Currently Learning
 
